@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# production
+build/
+dist/
+
+# env
+.env
+.env.local
+.env*.local
+
+# debug
+npm-debug.log*
+
+# testing
+test-results/
+playwright-report/
+
+# system
+.DS_Store
