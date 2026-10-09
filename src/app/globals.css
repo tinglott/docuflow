@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #14101f;
+  color: #fff;
+}
+
+/* StPageFlip canvas sizing */
+.stf__parent {
+  margin: 0 auto;
+}
